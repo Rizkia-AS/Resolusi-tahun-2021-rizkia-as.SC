@@ -11,3 +11,6 @@ Next.js
 - electron
 - web assembely
 - keep learning
+
+
+LUPAKAN ANDINI
