@@ -10,3 +10,4 @@ Next.js
 - react native
 - electron
 - web assembely
+- keep learning
