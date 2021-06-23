@@ -11,3 +11,5 @@ Resolusi tahun 2021 juni - desember
 - modern css
 - web components
 - css frameworks
+
+- menyelesaikan belajar frontend developer dicoding
