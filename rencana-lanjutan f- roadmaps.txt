@@ -12,4 +12,5 @@ Next.js
 - web assembely
 - keep learning
 
+
 tetap percaya padanya
