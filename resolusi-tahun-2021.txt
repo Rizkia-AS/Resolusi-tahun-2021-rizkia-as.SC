@@ -1,0 +1,13 @@
+Resolusi tahun 2021 juni - desember
+- 1x2 jam perhari mengerjakan freecodecamp javascript
+- menyelesaikan fe dev road map :
+- version control system
+- web security knowledge
+- package manager
+- css architechture
+- css preprocessor
+- build tools
+- pick a framework
+- modern css
+- web components
+- css frameworks
